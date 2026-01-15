@@ -1,0 +1,2 @@
+trajectory_planner
+-DCATKIN_DEVEL_PREFIX=/home/d1c/nre/devel -DCMAKE_INSTALL_PREFIX=/home/d1c/nre/install -G Unix Makefiles
